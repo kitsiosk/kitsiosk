@@ -2,7 +2,7 @@
 
 **PhD Student in AI for Software Testing**
 
-[Website](https://kitsiosk.github.io/) · [Publications](https://kitsiosk.github.io/publications) · [Email](mailto:konstantinos.kitsios@uzh.ch)
+[Website](https://kitsiosk.github.io/) · [Publications](https://kitsiosk.github.io/publications) 
 
 I'm a PhD student at the University of Zurich, working with [Alberto Bacchelli](https://sback.it/) in the [ZEST](https://www.ifi.uzh.ch/en/zest.html) group. My research brings together large language models, search-based testing, and fuzzing, with broader interests in software engineering and AI for code.
 
